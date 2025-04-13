@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>img/backward_button.svg</file>
+        <file>img/forward_button.svg</file>
+        <file>img/pause_button.svg</file>
+        <file>img/play_button.svg</file>
+        <file>img/icon.svg</file>
+    </qresource>
+</RCC>

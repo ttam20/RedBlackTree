@@ -1,0 +1,59 @@
+{
+    "dataType": "N",
+    "tree": [
+        {
+            "value": 4,
+            "color": "B",
+            "left": 1,
+            "right": 2
+        },
+        {
+            "value": 2,
+            "color": "R",
+            "left": 3,
+            "right": 4
+        },
+        {
+            "value": 6,
+            "color": "R",
+            "left": 5,
+            "right": 6
+        },
+        {
+            "value": 1,
+            "color": "B",
+            "left": null,
+            "right": null
+        },
+        {
+            "value": 3,
+            "color": "B",
+            "left": null,
+            "right": null
+        },
+        {
+            "value": 5,
+            "color": "B",
+            "left": null,
+            "right": null
+        },
+        {
+            "value": 8,
+            "color": "B",
+            "left": 7,
+            "right": 8
+        },
+        {
+            "value": 7,
+            "color": "R",
+            "left": null,
+            "right": null
+        },
+        {
+            "value": 9,
+            "color": "R",
+            "left": null,
+            "right": null
+        }
+    ]
+}
